@@ -17,9 +17,9 @@ batch_size = 30
 lr = 0.01
 num_epoch = 200
 
-data_dir = '../data/afew/afew_400'
-train_path = '../data/afew/train.txt'
-val_path = '../data/afew/val.txt'
+data_dir = './data/afew/afew_400'
+train_path = './data/afew/train.txt'
+val_path = './data/afew/val.txt'
 fid = open(train_path, 'r')
 train_file = []
 train_label = []
