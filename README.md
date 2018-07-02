@@ -1,5 +1,5 @@
 # SPD_Net
-implement Riemannian gradient in pytorch
+implement Riemannian gradient in pytorch 0.3.1
 
 The original code is in matlab (https://github.com/zzhiwu/SPDNet)
 
