@@ -5,6 +5,8 @@ The original code is in matlab (https://github.com/zzhiwu/SPDNet)
 The network is as follow
 
 ![image] ( https://github.com/YirongMao/SPDNet/blob/master/data/net.PNG) 
+
+
 Usage:
 
 Step1: Place the AFEW SPD data under the folder "./data/afew/". The AFEW SPD data can be downloaded from http://www.vision.ee.ethz.ch/~zzhiwu/
