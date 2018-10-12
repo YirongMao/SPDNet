@@ -4,7 +4,7 @@ implement Riemannian gradient in pytorch 0.3.1
 The original code is in matlab (https://github.com/zzhiwu/SPDNet)
 The network is as follow
 
-![image] ( https://github.com/YirongMao/SPDNet/blob/master/data/net.PNG) 
+![image](https://github.com/YirongMao/SPDNet/blob/master/data/net.PNG)
 
 
 Usage:
